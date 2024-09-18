@@ -1,0 +1,10 @@
+{
+    "include": [
+        "src/server"
+    ],
+    "compilerOptions": {
+        "module": "NodeNext",
+        "target": "es6",
+        "esModuleInterop": true
+    }
+}

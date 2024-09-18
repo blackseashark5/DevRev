@@ -1,0 +1,11 @@
+{
+    "include": [
+        "src/client"
+    ],
+    "compilerOptions": {
+        "module": "ESNext",
+        "target": "es6",
+        "esModuleInterop": true,
+        "lib": ["ESNext", "DOM"]
+    }
+}
